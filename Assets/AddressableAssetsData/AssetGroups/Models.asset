@@ -16,7 +16,85 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 53a098a1623209646a748b4f2f786fc0
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 34624edaccd9d704a95ed404d919b492
+    m_Address: Assets/ExampleAssets/Models/Stud.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 47616bd0cda748d4cbedcfc908506b9d
+    m_Address: Assets/ExampleAssets/Models/Workshop_Set.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6296e48663fd7ad46b1a2af507f871cf
+    m_Address: Assets/ExampleAssets/Models/safetygoggles_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 68a66fb5a71f8204a8dcb613c97d1fa8
+    m_Address: Assets/ExampleAssets/Models/hammer_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b73e8872ca76104bbca4ee2b704a1b4
+    m_Address: Assets/ExampleAssets/Models/jigsaw_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d0d902f71acfe646a46cb625f815a49
+    m_Address: Assets/ExampleAssets/Models/safetyhat_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aeaee610429f51f44981e141eb2a3545
+    m_Address: Assets/ExampleAssets/Models/small_plane.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aed8c47425ab91f4eb06ce6fe47c3e4e
+    m_Address: Assets/ExampleAssets/Models/brush_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b451a052397f03c4f8a04d915d1c0492
+    m_Address: Assets/ExampleAssets/Models/paintbucket_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bae110eee250e4b418b188f4ae4e3170
+    m_Address: Assets/ExampleAssets/Models/magneticlevel_low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e3ae06a3979f53046aa05330d69de1fa
+    m_Address: Assets/ExampleAssets/Models/ConstructionLight_Low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: efe9381559c516743bd05cef82f39ebb
+    m_Address: Assets/ExampleAssets/Models/Workbench.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ff6dc36862fe41641bb21568d92147c9
+    m_Address: Assets/ExampleAssets/Models/Workbench_Low.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2048ba65060a1b7479f0cf2eb48517e9, type: 2}
   m_SchemaSet:
