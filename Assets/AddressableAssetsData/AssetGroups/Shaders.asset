@@ -18,11 +18,11 @@ MonoBehaviour:
   m_GUID: ce6271d89f82f0d4ab50a91f1437945e
   m_SerializeEntries:
   - m_GUID: 5e5eca56e1993e741b41ac9c687d01a5
-    m_Address: Assets/ExampleAssets/Shaders/Paint1G_WAnim_Shader.ShaderGraph
+    m_Address: Paint1G_WAnim_Shader
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4800000, guid: 5e5eca56e1993e741b41ac9c687d01a5, type: 3}
+    m_TargetAsset: {fileID: 4800000, guid: 5e5eca56e1993e741b41ac9c687d01a5, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2048ba65060a1b7479f0cf2eb48517e9, type: 2}
   m_SchemaSet:

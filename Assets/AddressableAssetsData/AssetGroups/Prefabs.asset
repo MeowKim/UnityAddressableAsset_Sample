@@ -18,47 +18,61 @@ MonoBehaviour:
   m_GUID: 8f872370716af5e4ea5bb7d1f5458df8
   m_SerializeEntries:
   - m_GUID: 283e6530a665e4513959d1cd4883682f
-    m_Address: Assets/ExampleAssets/Prefabs/Paint Supplies.prefab
+    m_Address: Paint Supplies
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4399714922860730671, guid: 283e6530a665e4513959d1cd4883682f,
+      type: 3}
+    m_TargetAsset: {fileID: 4399714922860730671, guid: 283e6530a665e4513959d1cd4883682f,
+      type: 3}
   - m_GUID: 38d5ecfa2b93c4095b4cc5d4a590e676
-    m_Address: Assets/ExampleAssets/Prefabs/Workbench_LOD1.prefab
+    m_Address: Workbench_LOD1
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 5661467807466071258, guid: 38d5ecfa2b93c4095b4cc5d4a590e676,
+      type: 3}
+    m_TargetAsset: {fileID: 5661467807466071258, guid: 38d5ecfa2b93c4095b4cc5d4a590e676,
+      type: 3}
   - m_GUID: 85dfab9623c67784fa7894de63cd1604
-    m_Address: Assets/ExampleAssets/Prefabs/Props.prefab
+    m_Address: Props
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 1470751580683984, guid: 85dfab9623c67784fa7894de63cd1604,
+      type: 3}
+    m_TargetAsset: {fileID: 1470751580683984, guid: 85dfab9623c67784fa7894de63cd1604,
+      type: 3}
   - m_GUID: 8850d132797ff49298ba781e8e1c9bfe
-    m_Address: Assets/ExampleAssets/Prefabs/Workbench.prefab
+    m_Address: Workbench
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 3116566584170727252, guid: 8850d132797ff49298ba781e8e1c9bfe,
+      type: 3}
+    m_TargetAsset: {fileID: 3116566584170727252, guid: 8850d132797ff49298ba781e8e1c9bfe,
+      type: 3}
   - m_GUID: a87f0180d46fd334b9025d0314a0dc70
-    m_Address: Assets/ExampleAssets/Prefabs/Workshop Set.prefab
+    m_Address: Workshop Set
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 1059178161569566, guid: a87f0180d46fd334b9025d0314a0dc70,
+      type: 3}
+    m_TargetAsset: {fileID: 1059178161569566, guid: a87f0180d46fd334b9025d0314a0dc70,
+      type: 3}
   - m_GUID: bf0a225a9ff184f2789f3036faaa9150
-    m_Address: Assets/ExampleAssets/Prefabs/Construction Light Low.prefab
+    m_Address: Construction Light Low
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4410402899750998667, guid: bf0a225a9ff184f2789f3036faaa9150,
+      type: 3}
+    m_TargetAsset: {fileID: 4410402899750998667, guid: bf0a225a9ff184f2789f3036faaa9150,
+      type: 3}
   - m_GUID: c0adcaeba3022437293536832628fdf8
-    m_Address: Assets/ExampleAssets/Prefabs/Workbench_LOD0.prefab
+    m_Address: Workbench_LOD0
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4654706891235022486, guid: c0adcaeba3022437293536832628fdf8,
+      type: 3}
+    m_TargetAsset: {fileID: 4654706891235022486, guid: c0adcaeba3022437293536832628fdf8,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2048ba65060a1b7479f0cf2eb48517e9, type: 2}
   m_SchemaSet:
