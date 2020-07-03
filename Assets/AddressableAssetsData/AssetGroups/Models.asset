@@ -20,79 +20,92 @@ MonoBehaviour:
   - m_GUID: 34624edaccd9d704a95ed404d919b492
     m_Address: Stud
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: 34624edaccd9d704a95ed404d919b492, type: 3}
     m_TargetAsset: {fileID: 100000, guid: 34624edaccd9d704a95ed404d919b492, type: 3}
   - m_GUID: 47616bd0cda748d4cbedcfc908506b9d
     m_Address: Workshop_Set
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100010, guid: 47616bd0cda748d4cbedcfc908506b9d, type: 3}
     m_TargetAsset: {fileID: 100010, guid: 47616bd0cda748d4cbedcfc908506b9d, type: 3}
   - m_GUID: 6296e48663fd7ad46b1a2af507f871cf
     m_Address: safetygoggles_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: 6296e48663fd7ad46b1a2af507f871cf, type: 3}
     m_TargetAsset: {fileID: 100000, guid: 6296e48663fd7ad46b1a2af507f871cf, type: 3}
   - m_GUID: 68a66fb5a71f8204a8dcb613c97d1fa8
     m_Address: hammer_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
     m_TargetAsset: {fileID: 100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - m_GUID: 8b73e8872ca76104bbca4ee2b704a1b4
     m_Address: jigsaw_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: 8b73e8872ca76104bbca4ee2b704a1b4, type: 3}
     m_TargetAsset: {fileID: 100000, guid: 8b73e8872ca76104bbca4ee2b704a1b4, type: 3}
   - m_GUID: 9d0d902f71acfe646a46cb625f815a49
     m_Address: safetyhat_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: 9d0d902f71acfe646a46cb625f815a49, type: 3}
     m_TargetAsset: {fileID: 100000, guid: 9d0d902f71acfe646a46cb625f815a49, type: 3}
   - m_GUID: aeaee610429f51f44981e141eb2a3545
     m_Address: small_plane
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: aeaee610429f51f44981e141eb2a3545, type: 3}
     m_TargetAsset: {fileID: 100000, guid: aeaee610429f51f44981e141eb2a3545, type: 3}
   - m_GUID: aed8c47425ab91f4eb06ce6fe47c3e4e
     m_Address: brush_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: aed8c47425ab91f4eb06ce6fe47c3e4e, type: 3}
     m_TargetAsset: {fileID: 100000, guid: aed8c47425ab91f4eb06ce6fe47c3e4e, type: 3}
   - m_GUID: b451a052397f03c4f8a04d915d1c0492
     m_Address: paintbucket_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100006, guid: b451a052397f03c4f8a04d915d1c0492, type: 3}
     m_TargetAsset: {fileID: 100006, guid: b451a052397f03c4f8a04d915d1c0492, type: 3}
   - m_GUID: bae110eee250e4b418b188f4ae4e3170
     m_Address: magneticlevel_low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: bae110eee250e4b418b188f4ae4e3170, type: 3}
     m_TargetAsset: {fileID: 100000, guid: bae110eee250e4b418b188f4ae4e3170, type: 3}
   - m_GUID: e3ae06a3979f53046aa05330d69de1fa
     m_Address: ConstructionLight_Low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100000, guid: e3ae06a3979f53046aa05330d69de1fa, type: 3}
     m_TargetAsset: {fileID: 100000, guid: e3ae06a3979f53046aa05330d69de1fa, type: 3}
   - m_GUID: efe9381559c516743bd05cef82f39ebb
     m_Address: Workbench
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100010, guid: efe9381559c516743bd05cef82f39ebb, type: 3}
     m_TargetAsset: {fileID: 100010, guid: efe9381559c516743bd05cef82f39ebb, type: 3}
   - m_GUID: ff6dc36862fe41641bb21568d92147c9
     m_Address: Workbench_Low
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Models
     m_MainAsset: {fileID: 100010, guid: ff6dc36862fe41641bb21568d92147c9, type: 3}
     m_TargetAsset: {fileID: 100010, guid: ff6dc36862fe41641bb21568d92147c9, type: 3}
   m_ReadOnly: 0

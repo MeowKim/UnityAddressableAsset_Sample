@@ -71,6 +71,11 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Materials
+    - Models
+    - Prefabs
+    - Shaders
+    - Textures
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d85a9400ef862d84badae1bcc0ddfe16, type: 2}

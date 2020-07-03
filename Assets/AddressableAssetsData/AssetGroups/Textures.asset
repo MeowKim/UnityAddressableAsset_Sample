@@ -20,37 +20,43 @@ MonoBehaviour:
   - m_GUID: 0389f6104fd857940908a1705ab749f3
     m_Address: Drywall
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: 0389f6104fd857940908a1705ab749f3, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: 0389f6104fd857940908a1705ab749f3, type: 3}
   - m_GUID: 47c259102c9296845a85c9d7207b82f2
     m_Address: Concrete
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: 47c259102c9296845a85c9d7207b82f2, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: 47c259102c9296845a85c9d7207b82f2, type: 3}
   - m_GUID: 64d6ecb2a87dd444b85a7ff79b149c04
     m_Address: Plastic
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: 64d6ecb2a87dd444b85a7ff79b149c04, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: 64d6ecb2a87dd444b85a7ff79b149c04, type: 3}
   - m_GUID: abf7b1f1f7dfcba4c9243d4679f56e71
     m_Address: Props
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: abf7b1f1f7dfcba4c9243d4679f56e71, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: abf7b1f1f7dfcba4c9243d4679f56e71, type: 3}
   - m_GUID: c805204817006b648aa2d0cb8f7861d8
     m_Address: Metal
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: c805204817006b648aa2d0cb8f7861d8, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: c805204817006b648aa2d0cb8f7861d8, type: 3}
   - m_GUID: cebb473fb6009324ea0c85fcc4debbdf
     m_Address: Wood
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Textures
     m_MainAsset: {fileID: 102900000, guid: cebb473fb6009324ea0c85fcc4debbdf, type: 3}
     m_TargetAsset: {fileID: 102900000, guid: cebb473fb6009324ea0c85fcc4debbdf, type: 3}
   m_ReadOnly: 0

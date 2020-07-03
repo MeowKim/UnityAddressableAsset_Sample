@@ -20,7 +20,8 @@ MonoBehaviour:
   - m_GUID: 5e5eca56e1993e741b41ac9c687d01a5
     m_Address: Paint1G_WAnim_Shader
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Shaders
     m_MainAsset: {fileID: 4800000, guid: 5e5eca56e1993e741b41ac9c687d01a5, type: 3}
     m_TargetAsset: {fileID: 4800000, guid: 5e5eca56e1993e741b41ac9c687d01a5, type: 3}
   m_ReadOnly: 0
