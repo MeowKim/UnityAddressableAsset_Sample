@@ -10,6 +10,6 @@ Check out [this guide](https://gist.github.com/MeowKim/79796c1468872de6bf4b50f0b
 
 
 
-## License
+## :unlock: License
 Copyright &copy;2020 [MeowKim](https://github.com/MeowKim)  
-[MIT](https://github.com/MeowKim/UnityAddressableAsset_Sample/blob/master/LICENSE) License.  
+Distributed under the [MIT](https://github.com/MeowKim/UnityAddressableAsset_Sample/blob/master/LICENSE) License.  
