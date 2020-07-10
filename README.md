@@ -5,7 +5,7 @@ Check out [this guide](https://gist.github.com/MeowKim/79796c1468872de6bf4b50f0b
 
 
 ## :pushpin: Environments
-- Unity `2019.3.15f1`
+- Unity `2019.4.3f1`
 - Addressable `1.8.4`
 
 
