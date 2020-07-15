@@ -2,7 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
+!/[Ll]ibrary/
+/[Ll]ibrary/*
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -56,17 +57,23 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+/[Ss]erver[Dd]ata/
 *.apk
 *.aab
 *.unitypackage
+
+# Include `StreamingAssetsCopy` to keep using play mode script as `Use Exsiting Build (requires built groups)`
+!/[Ll]ibrary/com.unity.addressables/
+/[Ll]ibrary/com.unity.addressables/*
+!/[Ll]ibrary/com.unity.addressables/[Ss]treaming[Aa]ssets[Cc]opy/
 
 # Crashlytics generated file
 crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-/[Ss]erverData/**
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/[Ss]treaming[Aa]ssets.meta
+/[Aa]ssets/[Ss]treaming[Aa]ssets/aa.meta
+/[Aa]ssets/[Ss]treaming[Aa]ssets/aa/*
